@@ -31,7 +31,7 @@ DHT11 | A sensor used for mesuring the humidity in the air asweel as the tempera
 Breadboard 400 points | A board used to easy connect the sensors without soldering | sizable.se | 34 sek
 Micro USB cable*
 
-\* USB cable was already in possession and free.
+\* USB cable was already in possession.
 
 ![material](https://user-images.githubusercontent.com/108582271/177007654-dc706edb-46cb-425e-a652-3f34982a3d64.jpg)
 Figure 1: Components used for the project
