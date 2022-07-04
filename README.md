@@ -8,7 +8,7 @@ This project is aimed to construct a simple iot device with 2 sensors for placem
 
 **Approxiamtion of time needed for the project:**
 
-Around one hour
+Around one hour to two hours
 
 
 # Objective
