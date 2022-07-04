@@ -110,8 +110,11 @@ Figure 8: The air moisture feed page on Adafruit
 # Finalizing the design
 After assembling the project this is result.
 ![20220704_204437](https://user-images.githubusercontent.com/108582271/177205477-455ef7d7-c685-43dc-b70d-454be5df1975.jpg)
+Figure 8: Finalized project
 ![20220704_204443](https://user-images.githubusercontent.com/108582271/177205443-8add9629-6cae-42b0-b9d9-350867fc480f.jpg)
+Figure 9: Capacitive soil moisture sensor
 ![20220704_204429](https://user-images.githubusercontent.com/108582271/177205457-6fb6f156-da45-4cb4-b2da-a7c26689adff.jpg)
+Figure 10: Finalized project
 
 **Final Thoughts**
 
