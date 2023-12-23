@@ -47,7 +47,7 @@ The next thing to do is to download and install Node js (Windows download link h
 
 You are now ready to run your code on the development board. In order to uppload the code you need to open the Pymakr plugin that you find at the bottom and go into its setting and choose global settings. Enter the device com port into the Device address (list) field (which can be found in the device manager) and remove the check box selection from Safe-boot before upload. Go back and press Connect device in Pymakr and choose your COM port to connect to your board. Now you just need to press Upload project to device in order to run your code on the board.
 
-# Putting everything together
+# Menyatukan semua alat
 The setup of the device and the wiring is shown in a circuit diagram in Figure 3. Note that i could not find the exact same microcontroller that i used but it has the same amount of pins on each side, so the diagram shows in what spot you to put the wires. I also could not find the exact soil moisture senor but this one has the exact same wiring.
 
 ![WhatsApp Image 2023-12-18 at 17 02 59_0381a371](https://github.com/rullylukas/iot/assets/154656456/b184ded4-15ea-4f18-994a-473ba5efeff1)
