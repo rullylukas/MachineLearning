@@ -5,28 +5,26 @@ Proyek untuk IoT Terapan, Desember 2023
 
 # Ringkasan Tujuan
 Tujuan pembuatannya untuk membuat perangkat iot sederhana dengan 2 sensor untuk penempatan di samping tanaman yang memantau suhu dan kelembaban udara di sekitar tanaman serta kelembaban di tanah tanaman untuk mengetahui kapan Anda perlu menyiram tanaman
-**Perkiraan lamanya mengerjakan project:**
 
+**Perkiraan lamanya mengerjakan project:**
 Sekitar 1 sampai 2 jam
 
 
-# Objective
+# Objektif
 **Alasan memilih project ini:**
 Alasan kami memilih proyek ini adalah karena kami memiliki beberapa tanaman di kontrakan dan memiliki kebiasaan terkadang lupa menyiraminya sebelum tanaman mulai layu sehingga kami dapat mengetahui kapan harus menyiram tanaman tergantung pada tingkat kelembaban tanah.
 
 **Tujuan Proyek:**
 Tujuan dari proyek ini adalah pertama-tama untuk mempelajari tentang Internet of Things, cara membuat perangkat iot dan menghubungkannya ke platform untuk memvisualisasikan datanya. Dan kedua, memantau tanaman untuk mengetahui kapan kami perlu menyiramnya.
 
-**Insights gained by doing the project:**
-The project is able to give insights in basic concepts of IOT, programming and electric circuits. 
+**Wawasan yang diperoleh dengan melakukan proyek:**
+Proyek ini mampu memberikan wawasan tentang konsep dasar IOT, pemrograman, dan rangkaian listrik.
 
 # Material
 Komponen | Tujuan | Harga
 
 1 * Relay | 1 * Mini water pump | 1 * Battery Storage Case Holder | 1 * USB power cable | 10 * Jumper wires | 1 * 0.5m Vinyl Tubing | 1 * Soil Moisture Detector | Jumper wires male to male 12 pcs | DOIT ESP32 DevKit v1 | Microcontroller | Module DHT11 | Breadboard 400 points 
 
-
-\* USB cable was already in possession.
 
 ![material](https://user-images.githubusercontent.com/108582271/177007654-dc706edb-46cb-425e-a652-3f34982a3d64.jpg)
 Figure 1: Components used for the project
