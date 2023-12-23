@@ -1,7 +1,7 @@
 # Sistem Penyemprotan Tanaman Otomatis dengan DHT11 dan Resistive Soil Moisture Sensor
 Proyek untuk IoT Terapan, Desember 2023
 
-**Name:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Saputra; **Student** credentials: je224bk
+**Name:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Hidayat
 
 # Short project overview
 This project is aimed to construct a simple iot device with 2 sensors for placement besides your plant that monitors the temperature and air humidity around the plant aswell as the humidity in the plants soil in order to se when you need to water your plant. 
