@@ -1,5 +1,5 @@
-# Siatem Penyemprotan Tanaman Otomatis dengan DHT11 dan Resistive Soil Moisture Sensor
-Project for the course Introduction to Applied IoT, Desember 2023
+# Sistem Penyemprotan Tanaman Otomatis dengan DHT11 dan Resistive Soil Moisture Sensor
+Proyek untuk IoT Terapan, Desember 2023
 
 **Name:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Saputra; **Student** credentials: je224bk
 
