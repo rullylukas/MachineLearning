@@ -1,11 +1,10 @@
 # Sistem Penyemprotan Tanaman Otomatis dengan DHT11 dan Resistive Soil Moisture Sensor
 Proyek untuk IoT Terapan, Desember 2023
 
-**Name:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Hidayat
+**Nama:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Hidayat
 
-# Short project overview
-This project is aimed to construct a simple iot device with 2 sensors for placement besides your plant that monitors the temperature and air humidity around the plant aswell as the humidity in the plants soil in order to se when you need to water your plant. 
-
+# Ringkasan Tujuan
+Tujuan pembuatannya untuk membuat perangkat iot sederhana dengan 2 sensor untuk penempatan di samping tanaman yang memantau suhu dan kelembaban udara di sekitar tanaman serta kelembaban di tanah tanaman untuk mengetahui kapan Anda perlu menyiram tanaman
 **Perkiraan lamanya mengerjakan project:**
 
 Sekitar 1 sampai 2 jam
@@ -23,19 +22,8 @@ The project is able to give insights in basic concepts of IOT, programming and e
 
 # Material
 Komponen | Tujuan | Harga
--| -| -| -
-1 * Relay 
-1 * Mini water pump 
-1 * Battery Storage Case Holder 
-1 * USB power cable 
-10 * Jumper wires 
-1 * 0.5m Vinyl Tubing 
-1 * Soil Moisture Detector 
-Jumper wires male to male 12 pcs 
-DOIT ESP32 DevKit v1
-Microcontroller 
-Module DHT11 
-Breadboard 400 points 
+
+1 * Relay | 1 * Mini water pump | 1 * Battery Storage Case Holder | 1 * USB power cable | 10 * Jumper wires | 1 * 0.5m Vinyl Tubing | 1 * Soil Moisture Detector | Jumper wires male to male 12 pcs | DOIT ESP32 DevKit v1 | Microcontroller | Module DHT11 | Breadboard 400 points 
 
 
 \* USB cable was already in possession.
