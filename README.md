@@ -1,35 +1,42 @@
 # Humidity-and-temperature-sensors-for-monitoring-plants-iot-project
-Project for the course Introduction to Applied IoT, Summer 2022
+Project for the course Introduction to Applied IoT, Desember 2023
 
-**Name:** Johannes Eriksson; **Student** credentials: je224bk
+**Name:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Saputra; **Student** credentials: je224bk
 
 # Short project overview
 This project is aimed to construct a simple iot device with 2 sensors for placement besides your plant that monitors the temperature and air humidity around the plant aswell as the humidity in the plants soil in order to se when you need to water your plant. 
 
-**Approxiamtion of time needed for the project:**
+**Perkiraan lamanya mengerjakan project:**
 
-Around one hour to two hours
+Sekitar 1 sampai 2 jam
 
 
 # Objective
-**Reasons for choosing the project:**
-The reason i choose this project is that i have some plants in my home and have the habit of sometimes forgetting to water them in time before they start to wither so being able to the when i should water the plants depending on the soils moisture level will probably counteract that. 
+**Alasan memilih project ini:**
+Alasan kami memilih proyek ini adalah karena kami memiliki beberapa tanaman di kontrakan dan memiliki kebiasaan terkadang lupa menyiraminya sebelum tanaman mulai layu sehingga kami dapat mengetahui kapan harus menyiram tanaman tergantung pada tingkat kelembaban tanah.
 
-**Purposes of the project:**
-The purpose of this project is firstly to learn about the Inter of things, how to build a iot device and connect it to a platform to visualize its data. And secondly to monitor my plants to see when i need to water them.
+**Tujuan Proyek:**
+Tujuan dari proyek ini adalah pertama-tama untuk mempelajari tentang Internet of Things, cara membuat perangkat iot dan menghubungkannya ke platform untuk memvisualisasikan datanya. Dan kedua, memantau tanaman untuk mengetahui kapan kami perlu menyiramnya.
 
 **Insights gained by doing the project:**
 The project is able to give insights in basic concepts of IOT, programming and electric circuits. 
 
 # Material
-Component | Purpose of | Bought at | Price 
+Komponen | Tujuan | Harga
 -| -| -| -
-ESP32 DEVKIT V1 DOIT | A microcontroller used for data collection, data transfer, and data analysis. | sizable.se | 94 sek 
-Capacitive soil moisture sensor | A sensor that mesures the humidity in soil  | amazon.se | 72 sek
-DHT11 | A sensor used for mesuring the humidity in the air asweel as the temperature | sizable.se | 28 sek
-40x jumper wires Male/Male | Wires for connecting the different components | sizable.se | 24 sek
-Breadboard 400 points | A board used to easy connect the sensors without soldering | sizable.se | 34 sek
-Micro USB cable*
+1 * Relay 
+1 * Mini water pump 
+1 * Battery Storage Case Holder 
+1 * USB power cable 
+10 * Jumper wires 
+1 * 0.5m Vinyl Tubing 
+1 * Soil Moisture Detector 
+Jumper wires male to male 12 pcs 
+DOIT ESP32 DevKit v1
+Microcontroller 
+Module DHT11 
+Breadboard 400 points 
+
 
 \* USB cable was already in possession.
 
