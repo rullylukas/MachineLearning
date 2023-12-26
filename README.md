@@ -21,13 +21,14 @@ Tujuan dari proyek ini adalah pertama-tama untuk mempelajari tentang Internet of
 Proyek ini mampu memberikan wawasan tentang konsep dasar IOT, pemrograman, dan rangkaian listrik.
 
 # Material
-Komponen | Tujuan | Harga
+Komponen | Tujuan
 
 1 * Relay | 1 * Mini water pump | 1 * Battery Storage Case Holder | 1 * USB power cable | 10 * Jumper wires | 1 * 0.5m Vinyl Tubing | 1 * Soil Moisture Detector | Jumper wires male to male 12 pcs | DOIT ESP32 DevKit v1 | Microcontroller | Module DHT11 | Breadboard 400 points 
 
 
 ![material](https://user-images.githubusercontent.com/108582271/177007654-dc706edb-46cb-425e-a652-3f34982a3d64.jpg)
-Figure 1: Components used for the project
+Figure 1: 
+Komponen yang digunakan untuk proyek tersebut
 
 All components are shown in Figure 1. From left to right:
 * Breadboard
