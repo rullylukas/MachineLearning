@@ -1,7 +1,7 @@
 # Sistem Penyemprotan Tanaman Otomatis dengan DHT11 dan Resistive Soil Moisture Sensor
 Proyek untuk IoT Terapan, Desember 2023
 
-**Nama:** Rully Lukas, Abyan Hafizh, Ahmad Adil, Geril Hidayat
+**Nama:** Abyan Hafizh, Ahmad Adil, Geril Hidayat, Rully Lukas
 
 # Ringkasan Tujuan
 Tujuan pembuatannya untuk membuat perangkat iot sederhana dengan 2 sensor untuk penempatan di samping tanaman yang memantau suhu dan kelembaban udara di sekitar tanaman serta kelembaban di tanah tanaman untuk mengetahui kapan Anda perlu menyiram tanaman
